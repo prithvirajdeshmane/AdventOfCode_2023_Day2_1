@@ -4,7 +4,7 @@
 
 This repository contains a Java solution for Day 2 (part 1) of the Advent of Code 2023 challenge.
 
-**Problem Statement:** [Day 2 Problem #1](https://adventofcode.com/2023/day/2)
+**Problem Statement:** [Day 2](https://adventofcode.com/2023/day/2) (part 1)
 
 The program reads a file named `input.txt` containing game data, evaluates whether the games are valid based on specific color draw limits, and calculates the sum of the game numbers for all valid games.
 
